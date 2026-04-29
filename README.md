@@ -5,11 +5,11 @@
 
 <br/>
 
-### `N I K H I L` · AI Engineer · Builder · Deployer of Things That Actually Work
+### `N I K H I L` · AI Engineer · Builder · Your friendly neighbourhood tech guy 🕷️
 
 [![Portfolio](https://img.shields.io/badge/⚙_PORTFOLIO-0A0A0A?style=for-the-badge&logoColor=white)](https://portfolio-weld-six-45.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nikhil-126690289)
-[![Gmail](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsnikhil.tech@gmail.com)
+[![Gmail](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilchowdary334@gmail.com)
 
 </div>
 
@@ -23,7 +23,7 @@ class NikhilAI:
     mission      = "Ship production-grade AI — not demos, not notebooks."
     builds       = ["LLM Pipelines", "Voice Agents", "RAG Systems", "AI SaaS"]
     active_build = "GhostFolio — AI Startup Revival Intelligence Platform"
-    targeting    = ["AI Engineer", "ML Engineer", "AI Intern roles"]
+    targeting    = ["AI Engineer", "Software Engineer", "AI/SWE Intern roles"]
     
     def status(self): return "🔴 ONLINE · Bangalore, India"
 ```
@@ -48,7 +48,7 @@ Ingests failed startup data → runs Gemini API analysis → outputs revival str
 </td>
 <td width="50%" valign="top">
 
-### 🟠 Voice Agent *(Rooman — Shipped)*
+### 🟠 Voice Agent
 **Real-time Multi-Persona STT→LLM→TTS**
 
 Streaming voice pipeline with live persona switching. Resolved async deadlocks, interruption handling & silent handoffs in production.
@@ -74,15 +74,31 @@ XGBoost ensemble on real Bengaluru crime datasets. 87% accuracy. FastAPI real-ti
 </td>
 <td width="50%" valign="top">
 
+### 🟢 [NPM Hawk](https://npm-hawk.vercel.app)
+**npm Package Intelligence Monitor**
+
+Search, inspect & analyze any npm package in real-time — version history, download stats, dependencies, bundle size & security signals. Built for developers who don't want to tab-hop between registries.
+
+`React` `npm Registry API` `Vercel`
+
+**STATUS:** `LIVE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔵 [ErrorBuddy](https://github.com/techynikhil17/ErrorBuddy)
-**AI Developer Debugging Tool**
+**Developer Debugging Tool**
 
 Intelligent error analysis and fix suggestions for developers.
 
 `TypeScript` `AI-assisted` `Developer Tooling`
 
-**STATUS:** `IN PROGRESS`
+**STATUS:** `PUBLISHED on NPM`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -179,9 +195,9 @@ Intelligent error analysis and fix suggestions for developers.
 
 <div align="center">
 
-**`TARGETING: AI Engineer · ML Engineer · AI Intern`**
+**`TARGETING: AI Engineer · SWE · AI/SWE Intern`**
 
-`itsnikhil.tech@gmail.com` · Bangalore, India · Open to relocation
+`nikhilchowdary334@gmail.com` · Bangalore, India · Open to relocation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=techynikhil17&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
