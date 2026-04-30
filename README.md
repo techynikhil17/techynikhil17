@@ -130,7 +130,7 @@ Intelligent error analysis and fix suggestions for developers.
 | Domain | Technologies |
 |--------|-------------|
 | **STT** | Whisper, Deepgram, Real-time streaming STT |
-| **TTS** | ElevenLabs, Coqui, Bark — latency benchmarking |
+| **TTS** | ElevenLabs, Kokoro, Coqui, Bark — latency benchmarking |
 | **Pipeline** | STT → LLM → TTS, Async Streaming, WebSocket orchestration |
 | **Solved in Prod** | Async Deadlocks, Interruption Handling, Session Resets, Persona Switching |
 
