@@ -183,14 +183,16 @@ Intelligent error analysis and fix suggestions for developers.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techynikhil17&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&rank_icon=github)
+<!-- Contribution Graph — native GitHub activity -->
+![Activity Graph](https://github-contribution-grid-graph.vercel.app/?username=techynikhil17&color=58a6ff&background=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techynikhil17&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+<!-- Contribution Chart — ghchart.rshah.org (lightweight, always up) -->
+![Contribution Chart](https://ghchart.rshah.org/58a6ff/techynikhil17)
 
-![Streak](https://streak-stats.demolab.com/?user=techynikhil17&theme=react&hide_border=true&background=0d1117&stroke=58a6ff&ring=f78166&fire=f78166&currStreakLabel=58a6ff)
+<!-- Profile Views — already in your README, keep it -->
+![Profile Views](https://komarev.com/ghpvc/?username=techynikhil17&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
 ---
 
 <div align="center">
