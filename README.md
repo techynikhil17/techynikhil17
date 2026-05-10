@@ -181,16 +181,11 @@ Intelligent error analysis and fix suggestions for developers.
 
 ## ◈ SYSTEM METRICS
 
+## ◈ SYSTEM METRICS
+
 <div align="center">
 
-<!-- Contribution Graph — native GitHub activity -->
-![Activity Graph](https://github-contribution-grid-graph.vercel.app/?username=techynikhil17&color=58a6ff&background=0d1117)
-
-<!-- Contribution Chart — ghchart.rshah.org (lightweight, always up) -->
-![Contribution Chart](https://ghchart.rshah.org/58a6ff/techynikhil17)
-
-<!-- Profile Views — already in your README, keep it -->
-![Profile Views](https://komarev.com/ghpvc/?username=techynikhil17&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://github-stats-card-kappa.vercel.app/api/stats" width="480" alt="Nikhil's GitHub Stats" />
 
 </div>
 ---
