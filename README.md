@@ -181,8 +181,6 @@ Intelligent error analysis and fix suggestions for developers.
 
 ## ◈ SYSTEM METRICS
 
-## ◈ SYSTEM METRICS
-
 <div align="center">
 
 <img src="https://github-stats-card-kappa.vercel.app/api/stats" width="480" alt="Nikhil's GitHub Stats" />
