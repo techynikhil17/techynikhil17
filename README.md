@@ -19,7 +19,6 @@
 
 ```python
 class NikhilAI:
-    designation  = "AI Product Developer Intern @ Rooman Technologies"
     mission      = "Ship production-grade AI — not demos, not notebooks."
     builds       = ["LLM Pipelines", "Voice Agents", "RAG Systems", "AI SaaS"]
     active_build = "GhostFolio — AI Startup Revival Intelligence Platform"
